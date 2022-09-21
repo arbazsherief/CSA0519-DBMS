@@ -1,5 +1,5 @@
 # CSA0519-DBMS
-##EXPERIMENT-1
+## EXPERIMENT-1
 
 [EXPERIMENT-1 WORKSHEET](https://github.com/arbazsherief/CSA0519-DBMS/blob/main/experiment_1.txt)
 [OUTPUTS:]
@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/113408671/191520390-12b69235-0355-42f0-afb2-0f95aa0dc4c0.png)
 
-##EXPERIMENT-2
+## EXPERIMENT-2
 
 [EXPERIMENT-2 WORKSHEET](https://github.com/arbazsherief/CSA0519-DBMS/blob/main/Experiment-2.txt)
 [OUTPUTS:]
@@ -25,7 +25,7 @@
 
 ![image](https://user-images.githubusercontent.com/113408671/191521908-25306259-8c6b-4c90-8aea-235857dd7f83.png)
 
-##EXPERIMENT-3&4
+## EXPERIMENT-3&4
 
 [EXPERIMENT-3&4 WORKSHEET](https://github.com/arbazsherief/CSA0519-DBMS/blob/main/Experiment-3%2C4.txt)
 [OUTPUTS:]
@@ -44,7 +44,7 @@
 
 ![image](https://user-images.githubusercontent.com/113408671/191523806-bd182143-521c-428c-8c03-f0ebd89f438e.png)
 
-##EXPERIMENT-5
+## EXPERIMENT-5
 
 [EXPERIMENT-5 WORKSHEET](https://github.com/arbazsherief/CSA0519-DBMS/blob/main/Experiment-5.txt)
 [OUTPUTS:]
@@ -63,7 +63,7 @@
 
 ![image](https://user-images.githubusercontent.com/113408671/191526863-b7d9c89a-3612-44bf-86b0-99e913b83d88.png)
 
-##EXPERIMENT-6
+## EXPERIMENT-6
 
 [EXPERIMENT-6 WORKSHEET](https://github.com/arbazsherief/CSA0519-DBMS/blob/main/Experiment%20-6.txt)
 [OUTPUTS:]
@@ -74,7 +74,7 @@
 
 ![image](https://user-images.githubusercontent.com/113408671/191528041-2758bed9-07f7-4b28-9338-62306873331e.png)
 
-##EXPERIMENT-7
+## EXPERIMENT-7
 
 [EXPERIMENT-7 WORKSHEET](https://github.com/arbazsherief/CSA0519-DBMS/blob/main/Experiment-7.txt)
 [OUTPUTS:]
@@ -85,7 +85,7 @@
 
 ![image](https://user-images.githubusercontent.com/113408671/191529558-efef17b7-ff93-4039-b025-c0fe5623bced.png)
 
-##EXPERIMENT-8
+## EXPERIMENT-8
 
 [EXPERIMENT-8 WORKSHEET](https://github.com/arbazsherief/CSA0519-DBMS/blob/main/Experiment-8.txt)
 [OUTPUTS:]
@@ -96,7 +96,7 @@
 
 ![image](https://user-images.githubusercontent.com/113408671/191530231-85087890-5c17-496c-8b6b-ede53af92371.png)
 
-##EXPERIMENT-9
+## EXPERIMENT-9
 
 [EXPERIMENT-9 WORKSHEET](https://github.com/arbazsherief/CSA0519-DBMS/blob/main/Experiment-9.txt)
 [OUTPUTS:]
@@ -107,7 +107,7 @@
 
 ![image](https://user-images.githubusercontent.com/113408671/191531231-f26906ba-2d3c-487d-a5c1-d0ffe764868a.png)
 
-##EXPERIMENT-10
+## EXPERIMENT-10
 
 [EXPERIMENT-10 WORKSHEET](https://github.com/arbazsherief/CSA0519-DBMS/blob/main/Experiment-10.txt)
 [OUTPUTS:]
@@ -116,7 +116,7 @@
 
 ![image](https://user-images.githubusercontent.com/113408671/191536006-98b0928d-28c0-453e-83ed-3df4e9b7c5c9.png)
 
-##EXPERIMENT-11
+## EXPERIMENT-11
 
 [EXPERIMENT-11 WORK SHEET](
 
