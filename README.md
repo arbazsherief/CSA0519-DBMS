@@ -177,7 +177,22 @@
 
 ## EXPERIMENT-19
 
-[EXPERIMENT-19 WORKSHEET]()
+[EXPERIMENT-19 WORKSHEET](https://github.com/arbazsherief/CSA0519-DBMS/blob/main/Experiment-19.txt)
+[OUTPUT:]
+
+![image](https://user-images.githubusercontent.com/113408671/191779876-3a82a822-0b96-4a4b-95d7-b41498f40d0a.png)
+
+## EXPERIMENT-20
+
+[EXPERIMENT-20 WORKSHEET](https://github.com/arbazsherief/CSA0519-DBMS/blob/main/Experiment-20.txt)
+[OUTPUT:]
+
+![image](https://user-images.githubusercontent.com/113408671/191779294-6197756f-bb59-4bbe-b09b-5f09f57b18ec.png)
+
+## EXPERIMENT-21
+
+[EXPERIMENT-21 WORKSHEET]()
+
 
 
 
