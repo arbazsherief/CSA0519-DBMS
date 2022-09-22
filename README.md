@@ -155,6 +155,30 @@
 
 ![image](https://user-images.githubusercontent.com/113408671/191657618-580c0c51-4ee8-4d97-b868-ae7d4b619c2a.png)
 
+## EXPERIMENT-16
+
+[EXPERIMENT-16 WORKSHEET](https://github.com/arbazsherief/CSA0519-DBMS/blob/main/Experiment-16.txt)
+[OUTPUTS:]
+
+![image](https://user-images.githubusercontent.com/113408671/191733620-3d784df9-b703-4846-8141-a8408e162c3e.png)
+
+## EXPERIMENT-17
+
+[EXPERIMENT-17 WORKSHEET](https://github.com/arbazsherief/CSA0519-DBMS/blob/main/Experiment-17.txt)
+[OUTPUTS:]
+
+![image](https://user-images.githubusercontent.com/113408671/191733933-9e859c0b-4543-496b-bd60-3504000c1f7a.png)
+
+## EXPERIMENT-18
+
+[EXPERIMENT-18 WORKSHEET](https://github.com/arbazsherief/CSA0519-DBMS/blob/main/Experiment-18.txt)
+
+![image](https://user-images.githubusercontent.com/113408671/191734158-64bfc423-0921-495e-9cee-0497f03900f9.png)
+
+## EXPERIMENT-19
+
+[EXPERIMENT-19 WORKSHEET]()
+
 
 
 
